@@ -6,9 +6,19 @@
       <excludeFolder url="file://$MODULE_DIR$/ch1/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ch1/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ch1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ch3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ch3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ch3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ch2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ch2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ch2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ch4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ch4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ch4/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
